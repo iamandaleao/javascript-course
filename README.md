@@ -1,6 +1,6 @@
 # Curso Completo de JavaScript
 
-Curso concluído com 100% de aproveitamento, ministrado por Gustavo Guanabara, com foco em fundamentos modernos de JavaScript (ES6+). O conteúdo foi estudado e aplicado por meio de projetos práticos e exercícios funcionais.
+Curso concluído com 100% de aproveitamento, ministrado por Gustavo Guanabara no **Curso em Vídeo**, com foco em fundamentos modernos de JavaScript (ES6+). O conteúdo foi estudado e aplicado por meio de projetos práticos e exercícios funcionais.
 
 ## O que aprendi
 
@@ -12,20 +12,20 @@ Curso concluído com 100% de aproveitamento, ministrado por Gustavo Guanabara, c
 
 ## Projetos em destaque
 
-### [Hora do Dia](https://iamandaleao.github.io/javascript-course/aula12ex/ex14) *(Aula 12 – Exercício 14)*  
+### <a href="https://iamandaleao.github.io/javascript-course/aula12ex/ex14" target="_blank">Hora do Dia</a> *(Aula 12 – Exercício 14)*  
 Simula um sistema de saudação automática com base na hora do sistema. Exibe mensagens como "Bom dia", "Boa tarde" ou "Boa noite", acompanhadas de imagens que representam o período atual (manhã, tarde ou noite).
 
-### [Verificador de Estações da Vida](https://iamandaleao.github.io/javascript-course/aula12ex/ex15) *(Aula 12 – Exercício 15 – versão personalizada)*  
+### <a href="https://iamandaleao.github.io/javascript-course/aula12ex/ex15" target="_blank">Verificador de Estações da Vida</a> *(Aula 12 – Exercício 15 – versão personalizada)*  
 Projeto autoral baseado no exercício da aula.  
 Permite ao usuário inserir o ano de nascimento e escolher entre dois tipos de resposta:
 
 - **Idade:** exibe a idade atual com uma imagem correspondente à fase da vida (ex: jovem, adulto ou idoso).
 - **Estação da Vida:** mostra a estação simbólica (Verão, Outono ou Inverno), de acordo com a idade.
-  
+
 Exemplo: ao inserir o ano 2000, o sistema responde:  
 **"Você está na estação da vida: Verão (Juventude)"**, com imagem representativa.
 
-### [Analisador de Números](https://iamandaleao.github.io/javascript-course/aula18.1-ajustado/ex18.1) *(Aula 18 – Exercício original/modificada)*  
+### <a href="https://iamandaleao.github.io/javascript-course/aula18.1-ajustado/ex18.1" target="_blank">Analisador de Números</a> *(Aula 18 – Exercício original/modificada)*  
 Aplicação interativa que permite inserir números e analisar estatísticas, como:
 
 - Quantidade total de números
@@ -33,7 +33,7 @@ Aplicação interativa que permite inserir números e analisar estatísticas, co
 - Soma total
 - Média dos valores
 
-> 💡 Contém duas versões:
+> 💡 Contém duas versões:  
 > - **Original:** conforme o exercício orientado em aula  
 > - **Modificada:** versão personalizada por mim, com melhorias visuais e funcionais
 
