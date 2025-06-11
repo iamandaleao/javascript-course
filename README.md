@@ -1,4 +1,4 @@
-# JavaScript - Curso em Vídeo
+# Curso Completo de JavaScript
 
 Curso concluído com 100% de aproveitamento, ministrado por Gustavo Guanabara, com foco em fundamentos modernos de JavaScript (ES6+). O conteúdo foi estudado e aplicado por meio de projetos práticos e exercícios funcionais.
 
@@ -25,7 +25,7 @@ Permite ao usuário inserir o ano de nascimento e escolher entre dois tipos de r
 Exemplo: ao inserir o ano 2000, o sistema responde:  
 **"Você está na estação da vida: Verão (Juventude)"**, com imagem representativa.
 
-### [Analisador de Números](https://iamandaleao.github.io/javascript-course/aula18/ex18) *(Aula 18 – Exercício original/modificada)*  
+### [Analisador de Números](https://iamandaleao.github.io/javascript-course/aula18.1-ajustado/ex18.1) *(Aula 18 – Exercício original/modificada)*  
 Aplicação interativa que permite inserir números e analisar estatísticas, como:
 
 - Quantidade total de números
