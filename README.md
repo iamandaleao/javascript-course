@@ -1,8 +1,8 @@
-# JavaScript - Curso em Vídeo (40 horas)
+# JavaScript - Curso em Vídeo
 
 Curso concluído com 100% de aproveitamento, ministrado por Gustavo Guanabara, com foco em fundamentos modernos de JavaScript (ES6+). O conteúdo foi estudado e aplicado por meio de projetos práticos e exercícios funcionais.
 
-## 📘 O que aprendi
+## O que aprendi
 
 - Sintaxe moderna da linguagem (ES6+)
 - Manipulação do DOM e eventos
@@ -10,12 +10,12 @@ Curso concluído com 100% de aproveitamento, ministrado por Gustavo Guanabara, c
 - Arrays, funções e escopo
 - Criação de páginas web interativas
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### 📌 [Hora do Dia](https://iamandaleao.github.io/javascript-course/aula12ex/ex14) *(Aula 12 – Exercício 14)*  
+### [Hora do Dia](https://iamandaleao.github.io/javascript-course/aula12ex/ex14) *(Aula 12 – Exercício 14)*  
 Simula um sistema de saudação automática com base na hora do sistema. Exibe mensagens como "Bom dia", "Boa tarde" ou "Boa noite", acompanhadas de imagens que representam o período atual (manhã, tarde ou noite).
 
-### 📌 [Verificador de Estações da Vida](https://iamandaleao.github.io/javascript-course/aula12ex/ex15) *(Aula 12 – Exercício 15 – versão personalizada)*  
+### [Verificador de Estações da Vida](https://iamandaleao.github.io/javascript-course/aula12ex/ex15) *(Aula 12 – Exercício 15 – versão personalizada)*  
 Projeto autoral baseado no exercício da aula.  
 Permite ao usuário inserir o ano de nascimento e escolher entre dois tipos de resposta:
 
@@ -25,7 +25,7 @@ Permite ao usuário inserir o ano de nascimento e escolher entre dois tipos de r
 Exemplo: ao inserir o ano 2000, o sistema responde:  
 **"Você está na estação da vida: Verão (Juventude)"**, com imagem representativa.
 
-### 📌 [Analisador de Números](https://iamandaleao.github.io/javascript-course/aula18/ex18) *(Aula 18 – Exercício original/modificada)*  
+### [Analisador de Números](https://iamandaleao.github.io/javascript-course/aula18/ex18) *(Aula 18 – Exercício original/modificada)*  
 Aplicação interativa que permite inserir números e analisar estatísticas, como:
 
 - Quantidade total de números
@@ -44,4 +44,4 @@ O curso foi essencial para consolidar minha base em JavaScript e desenvolver peq
 ---
 
 Este repositório faz parte do meu portfólio como desenvolvedora em formação.  
-Sinta-se à vontade para explorar os projetos e acompanhar minha evolução 🚀
+Sinta-se à vontade para explorar os projetos e acompanhar minha evolução.
