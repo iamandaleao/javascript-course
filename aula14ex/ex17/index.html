@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Tabuada</title>
+    <link rel="stylesheet" href="estilo.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Tabuada</h1>
+    </header>
+    <section>
+      <div>
+        <p>
+          Número:
+          <input type="number" name="num" id="txtn" />
+          <select id="operacao">
+            <option value="multiplicar">Multiplicação</option>
+            <option value="dividir">Divisão</option>
+          </select>
+          <input type="button" value="Gerar" onclick="tabuada()" />
+        </p>
+      </div>
+      <div>
+        <select name="tabuada" id="seltab" size="10">
+          <option>Digite um número acima</option>
+        </select>
+      </div>
+    </section>
+    <footer>
+      <p>&copy; Amanda Leão</p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
