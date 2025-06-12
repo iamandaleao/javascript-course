@@ -1,4 +1,4 @@
-# Curso Completo de JavaScript
+# Curso de JavaScript
 
 Curso concluído com 100% de aproveitamento, ministrado por Gustavo Guanabara no **Curso em Vídeo**, com foco em fundamentos modernos de JavaScript (ES6+). O conteúdo foi estudado e aplicado por meio de projetos práticos e exercícios funcionais.
 
